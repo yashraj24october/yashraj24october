@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yash Raj , A web designer and programming enthusiast.
 - 💞️ I love web designing.
 - 🌱 I’m currently learning android development
-- 💞️ I am a passionate learner and love to collaborate with tech learners.
+- 💞️ I am a passionate learner and love to collaborate with tech learners and developers.
 
 <!---
 yashraj24october/yashraj24october is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
