@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Yash Raj , A web designer and programming enthusiast.
-- 💞️ I love web designing.
-- 🌱 I’m currently learning android development
+- # 👋 Hi, I’m Yash Raj , A Front-end Developer and programming enthusiast.
+- 💞️ I love web designing and programming.
+- 🌱 Always dedicated to programming
 - 💞️ I am a passionate learner and love to collaborate with tech learners and developers.
 
 <!---
