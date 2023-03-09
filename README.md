@@ -1,4 +1,4 @@
-- # 👋 Hi, I’m Yash Raj , A Front-end Developer and programming enthusiast.
+- # <center>👋 Hi, I’m Yash Raj , A Front-end Developer and programming enthusiast.
 - 💞️ I love web designing and programming.
 - 🌱 I am Always dedicated to programming and web development 
 - 💞️ I am a passionate learner and love to collaborate with tech learners and developers.
