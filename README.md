@@ -1,7 +1,7 @@
-- # <center>👋 Hi, I’m Yash Raj , A Front-end Developer and programming enthusiast.
-- 💞️ I love web designing and programming.
+- # <center>👋 Hi, I’m Yash Raj , A Full Stack Developer and programming enthusiast.
+- 💞️ I love web designing,development and programming.
 - 💟 Building Quality web applications using React.js
-- 🌱 I am Always dedicated to programming and web development 
+- 🌱 I am Always dedicated to programming, web development and problem-solving.
 - 💞️ I am a passionate learner and will love to collaborate with tech learners and developers.
 
 <!---
@@ -13,8 +13,11 @@ You can click the Preview link to take a look at your changes.
 
 * HTML5
 * CSS3
-* JAVASCRIPT 
+* JAVASCRIPT
+* jQuery
 * React.js
+* PHP
+* Laravel
 * C/C++
 * PYTHON
 * JAVA
